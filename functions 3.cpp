@@ -1,5 +1,7 @@
-// functions 3.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Программа меня очень удивила тем, что глобальные переменные объявляются 
   вне тела какой-либо из функций, ДАЖЕ ВНЕ ФУНКЦИИ MAIN()!!!*/

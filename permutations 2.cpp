@@ -1,5 +1,7 @@
-// permutations 2.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /* Программа выводит все перестановки из K элементов по N. */
 

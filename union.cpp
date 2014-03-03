@@ -1,5 +1,7 @@
-// union.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Программа показывает, что true и false в действительности есть 1 и 0.
   А тип bool занимает 1 байт, наверняка, в целях выравнивания.*/

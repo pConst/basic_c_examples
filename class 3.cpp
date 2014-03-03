@@ -1,5 +1,7 @@
-// class 3.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Программа демонстрирует работу со статическими данными и функциями.
   Кроме того, используются дружественные функции.

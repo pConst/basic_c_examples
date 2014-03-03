@@ -1,5 +1,7 @@
-// pointer 7.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Программа доказала мне, что внутренее представление ссылок и указателей
   АБСОЛЮТНО АНАЛОГИЧНО. При пердаче через ссылку НИКАКИХ КОПИЙ НЕ ДЕЛАЕТСЯ!!!*/

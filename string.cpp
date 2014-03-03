@@ -1,5 +1,7 @@
-// string.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /* Так состоялось моё знакомство с классом string.
    Остальные функции показались мне слишком простыми чтобы их пробовать. */

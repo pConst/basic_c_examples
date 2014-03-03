@@ -1,5 +1,7 @@
-// sqr comparation.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Программа для сравнения двух способов возведения числа в степень.
   Результат и должен быть таким: pow в четыре раза дольше, и использовать её

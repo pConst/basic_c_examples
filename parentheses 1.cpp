@@ -1,5 +1,7 @@
-// parentheses 1.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Программа выводит на экран все возможные слова длины (2*N)>0 в алфавите 
   скобок "(" и ")", представляющие правильные скобочные записи.

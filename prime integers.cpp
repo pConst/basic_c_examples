@@ -1,5 +1,7 @@
-// prime integers.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Программа перебором ищет простые числа.
   Интересно то, что для увеличения скорости оптимизирован шаг

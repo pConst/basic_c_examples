@@ -1,5 +1,7 @@
-// NumberGuesser.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Загадай число и прога его вычислит.
   Предполагается, что она угадывает, а ты говоришь ей "Мало", "Много" или "Угадал".

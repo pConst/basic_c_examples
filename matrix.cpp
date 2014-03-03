@@ -1,5 +1,7 @@
-// matrix.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*  Элемент матрицы вычисляется как некоторая функция определённой группы 
 	элементов другой матрицы. В группе находится всё, что слева (и на) от диагоналей

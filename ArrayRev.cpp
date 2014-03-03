@@ -1,5 +1,7 @@
-// ArrayRev.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Программа, делающая то же самое, написана и на VB.
   А результаты получаются разные!*/

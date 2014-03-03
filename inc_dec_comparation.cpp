@@ -1,5 +1,7 @@
-// inc_dec_comparation.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Программа для сравнения скорости выполнения арифм действий. Есть над чем подумать.*/
 

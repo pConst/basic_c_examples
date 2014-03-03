@@ -1,5 +1,7 @@
-// for sequence.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Программа выводит столбец символов 10*10.
   Интересно то, как оформлены вложенные циклы.

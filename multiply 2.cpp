@@ -1,5 +1,7 @@
-// multiply 2.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /* Более рациональный вариант программы "Разложение на множители", чем первый. */
 

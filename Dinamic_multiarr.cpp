@@ -1,5 +1,7 @@
-// Dinamic_multiarr.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 // Программа показывает, как ПРАВИЛЬНО создавать многомерные динамические массивы,
 // причём такие, в которых протяженности ВСЕХ граней задаются в момент выполнения!

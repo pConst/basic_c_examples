@@ -1,5 +1,7 @@
-// pointer 0.cpp : Defines the entry point for the console application.
-//
+//--------------------------------------------------------------------------------
+// Konstantin Pavlov, pavlovconst@gmail.com
+const unsigned char author[] = {"author: Konstantin Pavlov, pavlovconst@gmail.com"};
+//--------------------------------------------------------------------------------
 
 /*Раз и навсегда выясняется, как же правильнее (и удобнее, и непротиворечивее)
   записывать указатели и ссылки (но они пишутся так-же).*/
