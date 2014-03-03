@@ -1,75 +1,76 @@
 ﻿# basic_c_examples
-## Short console apps demonstrating basic С language concepts
----
+### Short console apps demonstrating basic С language concepts
 
-array 1.cpp		- poiner access to array elements
-array 2.cpp		- dynamic memory allocation
-array 3.cpp		- ways to pass (multi-dimentional) array into function
 
-ArrayRev.cpp				- shows that array allocaton in C and Visual Basic are different at low-level
-ArrayRev VB (directory)		- the same
+**array 1.cpp**		- poiner access to array elements  
+**array 2.cpp**		- dynamic memory allocation  
+**array 3.cpp**		- ways to pass (multi-dimentional) array into function  
 
-checkzero.cpp	- on importance to initialize vars
+**ArrayRev.cpp				- shows that array allocaton in C and Visual Basic are different at low-level  
+**ArrayRev VB (directory)		- the same  
 
-class 1.cpp		- calling constructors
-class 2.cpp		- calling copy constructors
-class 3.cpp		- static members and friend functions
+**checkzero.cpp	- on importance to initialize vars  
 
-CMultiArr.cpp
-New_multiArr.cpp
-Dinamic_multiarr.cpp		- creating arbitrary multi-dimentional dinamic arrays
+**class 1.cpp**		- calling constructors  
+**class 2.cpp**		- calling copy constructors  
+**class 3.cpp**		- static members and friend functions  
 
-Division.cpp		- as simple as it sounds
-empty.cpp		- i can`t understand this program (
-file.cpp		- stdio file access
+**CMultiArr.cpp**  
+**New_multiArr.cpp**  
+Dinamic_multiarr.cpp**		- creating arbitrary multi-dimentional dinamic arrays  
 
-for sequence.cpp		- oneliner prog!
-for_style.cpp			- for decoration example
+**Division.cpp**		- as simple as it sounds  
+**empty.cpp**		- i can`t understand this program (  
+**file.cpp**		- stdio file access  
 
-functions 1.cpp		- passing arguments by pointer and by reference
-functions 2.cpp		- juggling with referencing-dereferencing
-functions 3.cpp		- using global vars inside a function
+**for sequence.cpp**		- oneliner prog!  
+**for_style.cpp**			- for decoration example  
 
-incrementer.cpp		- written just to estimate how many elementary operations can i afford to get, say, 1 second delay
-inc_dec_comparation.cpp		- the same
+**functions 1.cpp**		- passing arguments by pointer and by reference  
+**functions 2.cpp**		- juggling with referencing-dereferencing  
+**functions 3.cpp**		- using global vars inside a function  
 
-IntOrExtVarDefs.cpp		- declare vars outside of a cycle, compiler is a dumb thing
+**incrementer.cpp**		- written just to estimate how many elementary operations can i afford to get, say, 1 second delay  
+**inc_dec_comparation.cpp**		- the same  
 
-matrix.cpp		- matrix arithmetic
+**IntOrExtVarDefs.cpp**		- declare vars outside of a cycle, compiler is a dumb thing  
 
-multiply 1.cpp		- factorization example
-multiply 2.cpp		- another factorization example
+**matrix.cpp**		- matrix arithmetic  
 
-NumberGuesser.cpp		- magical prog that guesses the number you propose
+**multiply 1.cpp**		- factorization example  
+**multiply 2.cpp**		- another factorization example  
 
-permutations 1.cpp		- prints out P(k,n)
-permutations 2.cpp		- another try to print P(k,n)
+**NumberGuesser.cpp**		- magical prog that guesses the number you propose  
 
-parentheses 1.cpp		- prints out all words of length (2*N)>0 that represent valid nested curly braces "(" and ")" *That was fun!*
-parentheses.cpp		- the same
+**permutations 1.cpp**		- prints out P(k,n)  
+**permutations 2.cpp**		- another try to print P(k,n)  
 
-PasSeries.cpp		- prints out Pascal`s triangular array members, see [wiki](http://en.wikipedia.org/wiki/Pascal%27s_triangle)
+**parentheses 1.cpp**		- prints out all words of length (2*N)>0 that represent valid nested curly braces "(" and ")" **That was fun!**  
+**parentheses.cpp**		- the same  
 
-pointer 0.cpp
-pointer 1.cpp
-pointer 1_1.cpp
-pointer 2.cpp		- void pointers
-pointer 3.cpp		- pointers on const
-pointer 4.cpp		- constant pointers
-pointer 5.cpp		- pointer arithmetic
-pointer 6.cpp
-pointer 7.cpp		- pointers and references are the same damn thing!
+**PasSeries.cpp**		- prints out Pascal`s triangular array members, see [wiki](http://en.wikipedia.org/wiki/Pascal%27s_triangle)  
 
-polynom.cpp		- lets solve quadratic equation
+**pointer 0.cpp**  
+**pointer 1.cpp**  
+**pointer 1_1.cpp**  
+**pointer 2.cpp**		- void pointers  
+**pointer 3.cpp**		- pointers on const  
+**pointer 4.cpp**		- constant pointers  
+**pointer 5.cpp**		- pointer arithmetic  
+**pointer 6.cpp**  
+**pointer 7.cpp**		- pointers and references are the same damn thing!  
 
-prime integers.cpp		- prints out primes
+**polynom.cpp**		- lets solve quadratic equation  
 
-rpn.cpp		- my guess is that the prog parses math expressions
-sizeof.cpp		- as simple as it sounds
-sqr comparation.cpp		- pow function testing
-string.cpp		- some string operations
+**prime integers.cpp**		- prints out primes  
 
-type cast 1.cpp		- unexplicit type casting
-type cast 2.cpp		- explicit type casting
+**rpn.cpp**		- my guess is that the prog parses math expressions  
+**sizeof.cpp**		- as simple as it sounds  
+**sqr comparation.cpp**		- pow function testing  
+**string.cpp**		- some string operations  
 
-union.cpp		- shows what is a unit at low-level
+**type cast 1.cpp**		- unexplicit type casting  
+**type cast 2.cpp**		- explicit type casting  
+
+**union.cpp**		- shows what is a unit at low-level  
+
